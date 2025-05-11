@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aefe0f87-2f1a-423c-a6c5-3880f27acc91" name="Changes" comment="Added an insertion sort for Übung 1, Aufgabe 4">
+    <list default="true" id="aefe0f87-2f1a-423c-a6c5-3880f27acc91" name="Changes" comment="Added an list reverser for Übung 3, Aufgabe 4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,10 +36,14 @@
     &quot;Python.insertionSort.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ThinkPad/PycharmProjects/algo/src/übung3&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ThinkPad\PycharmProjects\algo\src\übung3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ThinkPad\PycharmProjects\algo\src\übung1" />
     </key>
@@ -58,6 +62,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\ThinkPad\PycharmProjects\algo\src\übung1\insertionSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -97,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744222519628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added an list reverser for Übung 3, Aufgabe 4">
+      <option name="closed" value="true" />
+      <created>1745512055239</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745512055239</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added an insertion sort for Übung 1, Aufgabe 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added an insertion sort for Übung 1, Aufgabe 4" />
+    <MESSAGE value="Added an list reverser for Übung 3, Aufgabe 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added an list reverser for Übung 3, Aufgabe 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
